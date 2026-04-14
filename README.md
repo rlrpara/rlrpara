@@ -62,16 +62,16 @@ Sistema SaaS para gestão de estabelecimentos como:
 
 ## 📊 GitHub Stats
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rlrpara\&show_icons=true\&theme=radical)
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rlrpara&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlrpara\&layout=compact\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlrpara&layout=compact&theme=radical)
 
 ---
 
 ## 🔗 Contato
 
-* 💼 LinkedIn: *(coloque aqui seu link)*
-* 📧 Email: *(opcional)*
+* 💼 LinkedIn: www.linkedin.com/in/rlrpara
+* 📧 Email: rlr.para@gmail.com
 
 ---
 
