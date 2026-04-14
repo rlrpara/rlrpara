@@ -60,11 +60,12 @@ Sistema SaaS para gestão de estabelecimentos como:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rlrpara&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlrpara&layout=compact&theme=radical&cache_seconds=1800)
+Ativo no desenvolvimento de sistemas, com foco em:
+- Arquitetura escalável
+- Alta cobertura de testes
+- Construção de SaaS real (BoraFazer)
 
 ---
 
